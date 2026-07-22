@@ -120,7 +120,6 @@ nav ul {
     ),
     url("../images/Projects/diocese.jpg") center/cover no-repeat;
 }
-
 .home .swiper-slide:nth-child(2) {
     background: linear-gradient(
         90deg,
@@ -129,7 +128,6 @@ nav ul {
     ),
     url("../images/Projects/solar3.jpg") center/cover no-repeat;
 }
-
 .home .swiper-slide:nth-child(3) {
     background: linear-gradient(
         90deg,

@@ -569,6 +569,7 @@ h2 {
 .page-btn-2:hover {
     background: transparent;
     color: var(--c-brand-orange);
+     border: 2px solid var(--c-brand-orange);
 }
 
 /*============================================== SUBSCRIBE ==================================================*/
